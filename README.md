@@ -2,6 +2,7 @@ dotvim
 ==
 
 ### Ref
+  * [jfrazelle/.vim](https://github.com/jfrazelle/.vim)
   * [Vundle](http://vimawesome.com/plugin/vundle-vim)
   * [A good Vimrc](http://dougblack.io/words/a-good-vimrc.html)
   * [Vim/.vimrc](https://wiki.archlinux.org/index.php/vim/.vimrc)
