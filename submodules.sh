@@ -9,3 +9,6 @@ git config -f .gitmodules --get-regexp '^submodule\..*\.path$' |
         url=$(git config -f .gitmodules --get "$url_key")
         git submodule add $url $path
     done
+
+git submodule init
+git submodule update --recursive --remote
