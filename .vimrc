@@ -6,7 +6,7 @@ set nocompatible
 " set background=dark
 set showmatch
 set number
-set paste
+" set paste
 
 " Enable folding
 set foldenable          
@@ -111,6 +111,9 @@ set expandtab
 set tabstop=2
 set softtabstop=2
 set shiftwidth=2
+
+" neocomplete
+let g:neocomplete#enable_at_startup = 1
 
 " Customized plugin settings
 
